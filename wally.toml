@@ -1,0 +1,15 @@
+[package]
+name = "dbergman/sonner-roblox"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+GoodSignal = "stravant/goodsignal@0.3.1"
+Packet = "ivasmigins/packet@0.1.0"
+
+ReactRoblox = "jsdotlua/react-roblox@17.2.1"
+React = "jsdotlua/react@17.2.1"
+
+Promise = "evaera/promise@4.0.0"
+Trove = "sleitnick/trove@1.8.0"
