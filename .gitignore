@@ -10,5 +10,5 @@
 sourcemap.json
 
 # Wally packages
-ServerPackages
-Packages
+/ServerPackages
+/Packages
