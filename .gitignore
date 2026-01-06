@@ -5,4 +5,10 @@
 /*.rbxlx.lock
 /*.rbxl.lock
 
+# Rojo genered sourcemap
+# Update  the sourcemap with rojo sourcemap > sourcemap.json
 sourcemap.json
+
+# Wally packages
+ServerPackages
+Packages
